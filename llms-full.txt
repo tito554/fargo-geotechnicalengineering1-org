@@ -1,0 +1,51 @@
+# Geotechnicalengineering1 — Fargo
+
+> Geotechnical engineering services in Fargo, United States.
+
+## Services
+- [Anchors](https://fargo.geotechnicalengineering1.org/anchors/)
+- [Atterberg Limits](https://fargo.geotechnicalengineering1.org/atterberg-limits/)
+- [Cbr Road](https://fargo.geotechnicalengineering1.org/cbr-road/)
+- [Cpt Test](https://fargo.geotechnicalengineering1.org/cpt-test/)
+- [Deep Excavations](https://fargo.geotechnicalengineering1.org/deep-excavations/)
+- [Excavation Monitoring](https://fargo.geotechnicalengineering1.org/excavation-monitoring/)
+- [Excavations](https://fargo.geotechnicalengineering1.org/excavations/)
+- [Flexible Pavement](https://fargo.geotechnicalengineering1.org/flexible-pavement/)
+- [Footings](https://fargo.geotechnicalengineering1.org/footings/)
+- [Foundations](https://fargo.geotechnicalengineering1.org/foundations/)
+- [Grain Size](https://fargo.geotechnicalengineering1.org/grain-size/)
+- [Ground Improvement](https://fargo.geotechnicalengineering1.org/ground-improvement/)
+- [Grouting](https://fargo.geotechnicalengineering1.org/grouting/)
+- [In Situ Permeability](https://fargo.geotechnicalengineering1.org/in-situ-permeability/)
+- [Investigation](https://fargo.geotechnicalengineering1.org/investigation/)
+- [Lab In Situ](https://fargo.geotechnicalengineering1.org/lab-in-situ/)
+- [Laboratory](https://fargo.geotechnicalengineering1.org/laboratory/)
+- [Liquefaction](https://fargo.geotechnicalengineering1.org/liquefaction/)
+- [Masw](https://fargo.geotechnicalengineering1.org/masw/)
+- [Mat Foundations](https://fargo.geotechnicalengineering1.org/mat-foundations/)
+- [Piles](https://fargo.geotechnicalengineering1.org/piles/)
+- [Proctor Tests](https://fargo.geotechnicalengineering1.org/proctor-tests/)
+- [Resistivity](https://fargo.geotechnicalengineering1.org/resistivity/)
+- [Retaining Walls](https://fargo.geotechnicalengineering1.org/retaining-walls/)
+- [Rigid Pavement](https://fargo.geotechnicalengineering1.org/rigid-pavement/)
+- [Road Geotechnics](https://fargo.geotechnicalengineering1.org/road-geotechnics/)
+- [Sand Cone Density](https://fargo.geotechnicalengineering1.org/sand-cone-density/)
+- [Seismic](https://fargo.geotechnicalengineering1.org/seismic/)
+- [Seismic Isolation](https://fargo.geotechnicalengineering1.org/seismic-isolation/)
+- [Seismic Microzonation](https://fargo.geotechnicalengineering1.org/seismic-microzonation/)
+- [Seismic Refraction](https://fargo.geotechnicalengineering1.org/seismic-refraction/)
+- [Slope Stability](https://fargo.geotechnicalengineering1.org/slope-stability/)
+- [Slopes](https://fargo.geotechnicalengineering1.org/slopes/)
+- [Soft Ground Tunnels](https://fargo.geotechnicalengineering1.org/soft-ground-tunnels/)
+- [Spt Drilling](https://fargo.geotechnicalengineering1.org/spt-drilling/)
+- [Stone Columns](https://fargo.geotechnicalengineering1.org/stone-columns/)
+- [Test Pits](https://fargo.geotechnicalengineering1.org/test-pits/)
+- [Triaxial](https://fargo.geotechnicalengineering1.org/triaxial/)
+- [Vibrocompaction](https://fargo.geotechnicalengineering1.org/vibrocompaction/)
+
+## Contact
+- Website: https://fargo.geotechnicalengineering1.org/
+
+## About
+This site provides geotechnical engineering services in Fargo, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
